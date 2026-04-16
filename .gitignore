@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Output files
+output.*
+*.json
+*.txt
+!sample.log
+
+# Editor
+.vscode/
+.idea/
