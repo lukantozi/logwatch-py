@@ -1,4 +1,3 @@
-```markdown
 # logwatch
 
 A CLI tool that reads a log file, parses it into structured data, analyses it, and outputs stats.
@@ -48,6 +47,6 @@ logwatch/
 │   ├── analyser.py   # class-based analysis
 │   └── report.py     # output formatting
 ├── README.md
+├── sample.log
 └── setup.py
-```
 ```
