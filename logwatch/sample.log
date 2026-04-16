@@ -1,0 +1,8 @@
+2024-01-01 08:00:01 INFO service started
+2024-01-01 08:01:03 ERROR disk read failed
+2024-01-01 08:01:45 WARNING high memory usage
+2024-01-01 08:02:10 ERROR disk read failed
+2024-01-01 09:00:01 INFO heartbeat
+2024-01-01 09:15:22 ERROR connection timeout
+MALFORMED LINE
+2024-01-01 09:16:00 INFO recovered
